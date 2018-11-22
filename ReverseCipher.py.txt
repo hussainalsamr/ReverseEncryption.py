@@ -4,4 +4,4 @@ i=len(message)-1
 while i>=0:
     trans=trans+message[i]
     i=i-1
-    print(trans)
+print(trans)
